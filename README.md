@@ -2,7 +2,7 @@
 
 ## Back-End
 
-I am a third semester computer engineering student from CESUPA, I'm also member of Engeenering Office since 2023, where we develop projects using hardware and software. I like to play videogames, play my guitars and watch sports.
+I am a third semester computer engineering student from CESUPA, I'm also member of Engeenering Office since 2023, where we develop projects using hardware and software. I like to play videogames, play my guitar and watch sports.
 
 -   🌍  I'm living in Belém-PA
 
